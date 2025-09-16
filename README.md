@@ -1,12 +1,31 @@
-# React + Vite
+# Online Cinema Vite 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Посмотреть проект онлайн](https://online-cinema-vite.vercel.app)
 
-Currently, two official plugins are available:
+Online Cinema Vite — это современное веб-приложение для просмотра фильмов, созданное с использованием **React** и **Vite**. Проект демонстрирует навыки работы с современными инструментами разработки и предоставляет чистый и быстрый интерфейс для пользователей.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Основные функции
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Просмотр списка фильмов с постерами, названиями и описаниями.
+- Поиск фильмов по названию.
+- Адаптивный дизайн, подходящий для различных устройств.
+
+---
+
+## 🛠 Технологии
+
+- **Frontend:** React, Vite
+- **Стилизация:** CSS (без использования препроцессоров)
+- **Инструменты разработки:** ESLint, Prettier
+
+---
+
+## 🚀 Установка и запуск
+
+1. Клонируйте репозиторий:
+
+   ```bash
+   git clone https://github.com/Kutman02/online-cinemaVite.git
+   cd online-cinemaVite
